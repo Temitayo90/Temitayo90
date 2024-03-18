@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Temitayo, an entry-level data analyst with a Masters in Public Health. I'm a versatile individual with experience collecting, transforming, and organizing data for analysis to help make informed decisions. Excellent understanding and proficiency of platforms for effective data analyses, including SQL, Spreadsheets, Tableau, and R. Strong communication, organizational, and analytical skills.
+- 👋 Hi, I’m Temitayo, an entry-level data analyst with a Masters in Public Health. I'm a versatile individual with experience collecting, transforming, and organizing data for analysis to help make informed decisions. Excellent understanding and proficiency of platforms for effective data analyses, including SQL, Spreadsheets, Tableau, and R. Strong communication, organizational, and analytical skills.
 - 👀 I’m interested in getting a Junior Data analyst job
 - 🌱 I recently completed the Google Data Analytics Certificate - a rigorous, hands-on program covering the entire data analysis process scope.
 - 💞️ I'm excited to meet experts in the data analytics field. 
